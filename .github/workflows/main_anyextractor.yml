@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AnyExtractor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D74990FBDA5C4ECAB4272183345D3010 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB43E271D0FD487A99839520AA948E1A }}
           package: .
